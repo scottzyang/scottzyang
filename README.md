@@ -2,5 +2,5 @@
 
 - 👨🏻‍💻 Dev Degree Intern at Shopify! 
 - 📚 Applied Computer Science student at Dominican University of California 🐧
-- 🌱 Currently learning Python, JavaScript, HTML & CSS 
+- 🌱 Currently learning Python & TypeScript
 - 😄 Pronouns: He/Him
