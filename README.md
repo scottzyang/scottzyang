@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 Dev Degree Intern at Shopify! 
-- 📚 Applied Computer Science student at Dominican University of California 🐧
+- 👨🏻‍💻 Full Stack Software Engineer @ Shopify 🚀!
 - 😄 Pronouns: He/Him
